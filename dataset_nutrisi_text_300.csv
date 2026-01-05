@@ -1,0 +1,301 @@
+Food_Name,Food_Text,Energy_kcal,Protein_g,Fat_g,Sugar_g,Sodium_mg,Label_Kesehatan
+Fried Chicken,High fat salty unhealthy,262.0,"22,8","12,1","9,6",953,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,147.0,"11,9","7,1","22,1",765,Sehat
+Ice Cream,High sugar sweet dessert,296.0,"31,5","14,6","25,2",656,Tidak Sehat
+Ice Cream,High sugar sweet dessert,241.0,17,"25,9",35,37,Tidak Sehat
+Apple Fresh,Fruit low calorie sweet healthy,272.0,"34,4","0,3",15,361,Sehat
+Grilled Chicken Breast,High protein low fat healthy,57.0,"1,5","11,6","24,5",129,Sehat
+Sweet Soda Drink,Sweet drink high sugar,294.0,"32,7","10,2","6,4",585,Tidak Sehat
+Apple Fresh,Fruit low calorie sweet healthy,63.0,"8,5","6,9","9,9",611,Sehat
+Boiled Egg,High protein healthy,106.0,"34,3","22,2","23,8",613,Sehat
+Fried Rice,High carbohydrate oily salty,156.0,"17,6","25,5","21,7",276,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,246.0,"29,4",8,"31,1",170,Sehat
+Boiled Egg,High protein healthy,200.0,"33,4","15,6","13,9",726,Sehat
+Sweet Soda Drink,Sweet drink high sugar,83.0,"24,7","16,6",22,568,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,432.0,"16,2","1,8","6,9",260,Tidak Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,199.0,"12,5","17,1","13,6",651,Sehat
+Grilled Chicken Breast,High protein low fat healthy,142.0,"5,8","14,3","21,5",458,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,69.0,"21,1",19,22,856,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,319.0,23,"3,4","7,3",289,Sehat
+Grilled Chicken Breast,High protein low fat healthy,395.0,"33,2","21,6","6,4",724,Sehat
+Ice Cream,High sugar sweet dessert,432.0,"31,1","8,5","11,6",751,Tidak Sehat
+Ice Cream,High sugar sweet dessert,402.0,"18,5","29,7","20,1",197,Tidak Sehat
+French Fries,High fat salty snack,220.0,"34,1","13,3","4,8",42,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,164.0,"15,7","18,4","28,6",185,Sehat
+Sweet Soda Drink,Sweet drink high sugar,287.0,"18,9","3,4","20,2",62,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,295.0,"9,6","22,8","14,4",67,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,164.0,"24,8","4,8","12,9",326,Sehat
+Chocolate Cake,High sugar sweet dessert,236.0,"23,5","26,4",12,394,Tidak Sehat
+Orange Fresh,Fruit vitamin sweet healthy,281.0,"18,7","1,1",21,493,Sehat
+Salmon Grilled,High protein healthy fat omega,384.0,"13,7","11,6","10,3",460,Sehat
+Salmon Grilled,High protein healthy fat omega,267.0,1,"21,6","29,2",408,Sehat
+Chocolate Cake,High sugar sweet dessert,58.0,3,"1,8","31,1",968,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,151.0,"1,3","28,5","7,5",429,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,184.0,"13,2","29,7","14,3",836,Sehat
+Fried Chicken,High fat salty unhealthy,287.0,"32,9","16,4","9,7",359,Tidak Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,109.0,"31,7","26,7","2,6",97,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,219.0,"20,5","17,3","1,6",324,Sehat
+Fried Rice,High carbohydrate oily salty,147.0,"30,1","17,2","31,6",871,Tidak Sehat
+Boiled Egg,High protein healthy,384.0,"6,5",,"30,9",445,Sehat
+Grilled Chicken Breast,High protein low fat healthy,99.0,"12,6","5,6","19,4",707,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,373.0,"20,4","19,3","33,7",758,Sehat
+French Fries,High fat salty snack,407.0,31,"2,4","26,6",533,Tidak Sehat
+Fried Chicken,High fat salty unhealthy,328.0,29,2,"22,7",923,Tidak Sehat
+Apple Fresh,Fruit low calorie sweet healthy,359.0,"23,4","19,1","11,3",932,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,176.0,21,"16,9","26,1",186,Sehat
+Spinach Soup,Vegetable low calorie healthy,260.0,"15,7","12,9","26,6",844,Sehat
+Instant Noodle,High sodium salty carbohydrate,337.0,"0,7",23,"15,5",657,Tidak Sehat
+Sweet Soda Drink,Sweet drink high sugar,,"8,5","14,9","27,7",471,Tidak Sehat
+Ice Cream,High sugar sweet dessert,144.0,"2,6","25,6","7,2",829,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,350.0,"18,1","28,3","1,5",571,Sehat
+Ice Cream,High sugar sweet dessert,180.0,"4,3","15,9","34,9",535,Tidak Sehat
+Boiled Egg,High protein healthy,120.0,"5,7","0,4",2,852,Sehat
+Beef Burger,High protein high fat fast food,116.0,"27,6","7,7","4,5",448,Tidak Sehat
+Chocolate Cake,High sugar sweet dessert,361.0,20,"24,8","6,8",775,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,70.0,"33,4","1,9","7,9",763,Sehat
+Fried Chicken,High fat salty unhealthy,182.0,"18,1","27,6","24,6",830,Tidak Sehat
+Orange Fresh,Fruit vitamin sweet healthy,301.0,"29,5","28,6","20,4",299,Sehat
+Ice Cream,High sugar sweet dessert,173.0,30,"5,1","29,8",867,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,401.0,"31,2","2,2","34,6",967,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,72.0,"23,4","3,7","30,6",155,Sehat
+French Fries,High fat salty snack,383.0,"33,7","4,6","3,5",315,Tidak Sehat
+Sweet Soda Drink,Sweet drink high sugar,272.0,28,"27,3","19,7",939,Tidak Sehat
+French Fries,High fat salty snack,163.0,22,"16,9","8,2",635,Tidak Sehat
+Boiled Egg,High protein healthy,266.0,"26,7","28,2","25,1",559,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,125.0,"14,9","23,8","30,9",910,Sehat
+French Fries,High fat salty snack,344.0,"34,5","3,2","4,6",931,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,169.0,"33,2","16,8","26,7",180,Tidak Sehat
+Spinach Soup,Vegetable low calorie healthy,136.0,"9,3","8,6","28,9",332,Sehat
+Instant Noodle,High sodium salty carbohydrate,407.0,"30,7","9,6","0,3",906,Tidak Sehat
+Boiled Egg,High protein healthy,91.0,34,"9,7",22,885,Sehat
+Grilled Chicken Breast,High protein low fat healthy,328.0,"23,9","1,4","2,6",275,Sehat
+Beef Burger,High protein high fat fast food,82.0,"3,7",30,15,983,Tidak Sehat
+French Fries,High fat salty snack,78.0,"23,9","27,8","22,2",921,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,63.0,"6,2","17,9","4,4",387,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,271.0,"20,7","7,4","18,9",131,Sehat
+Instant Noodle,High sodium salty carbohydrate,370.0,"8,4","17,5","6,3",49,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,290.0,"12,4","25,4","30,6",539,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,231.0,"0,9","21,7","31,2",208,Sehat
+Sweet Soda Drink,Sweet drink high sugar,390.0,"14,4","26,6",8,334,Tidak Sehat
+Boiled Egg,High protein healthy,235.0,"12,8",10,"2,8",103,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,315.0,"26,3",4,"7,2",5,Sehat
+French Fries,High fat salty snack,450.0,4,"1,8","15,4",766,Tidak Sehat
+French Fries,High fat salty snack,381.0,"22,6","18,6","31,6",134,Tidak Sehat
+Fried Chicken,High fat salty unhealthy,433.0,"31,9","21,8","6,9",901,Tidak Sehat
+Fried Chicken,High fat salty unhealthy,325.0,"32,9","15,2","22,2",999,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,289.0,"18,8","22,9","16,4",790,Tidak Sehat
+Ice Cream,High sugar sweet dessert,253.0,"20,1","6,9","19,6",346,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,131.0,"7,6","27,3","28,6",505,Sehat
+Boiled Egg,High protein healthy,145.0,"27,2","8,2","12,2",112,Sehat
+French Fries,High fat salty snack,277.0,"13,2","15,8","17,7",650,Tidak Sehat
+Ice Cream,High sugar sweet dessert,447.0,"11,6","1,1","21,9",430,Tidak Sehat
+French Fries,High fat salty snack,397.0,"16,2","21,1","8,4",184,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,345.0,"6,1",13,"23,9",167,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,309.0,"14,8","21,2","12,8",508,Tidak Sehat
+Orange Fresh,Fruit vitamin sweet healthy,305.0,"31,3","24,2","5,8",735,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,429.0,14,"18,9","17,2",951,Sehat
+Fried Rice,High carbohydrate oily salty,201.0,"32,2","16,5","30,1",674,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,331.0,"26,6","12,5","11,8",58,Sehat
+Chocolate Cake,High sugar sweet dessert,190.0,"30,3","13,2","27,8",524,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,275.0,"6,4","27,4","13,8",387,Tidak Sehat
+Boiled Egg,High protein healthy,180.0,"10,8","4,3",20,496,Sehat
+Sweet Soda Drink,Sweet drink high sugar,338.0,"9,3","13,7","10,7",860,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,393.0,"25,6","15,4","33,6",136,Sehat
+Fried Chicken,High fat salty unhealthy,332.0,19,"25,6","33,2",152,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,306.0,"7,8","13,2","7,4",537,Sehat
+Instant Noodle,High sodium salty carbohydrate,211.0,"32,3","20,7","31,6",570,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,435.0,"5,6","10,1","28,7",26,Tidak Sehat
+Chocolate Cake,High sugar sweet dessert,279.0,"31,3","18,8","3,8",254,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,209.0,"28,2","5,6","13,2",381,Sehat
+French Fries,High fat salty snack,103.0,"1,9",20,"15,9",220,Tidak Sehat
+Ice Cream,High sugar sweet dessert,187.0,"8,5","11,7","2,6",378,Tidak Sehat
+Ice Cream,High sugar sweet dessert,171.0,24,"21,2",21,150,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,158.0,11,"14,4","16,4",961,Tidak Sehat
+Spinach Soup,Vegetable low calorie healthy,324.0,"22,7",8,"4,8",275,Sehat
+Beef Burger,High protein high fat fast food,242.0,"11,1","15,6",25,501,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,167.0,"24,5",26,"18,9",179,Sehat
+Salmon Grilled,High protein healthy fat omega,420.0,"17,8","27,5","21,7",871,Sehat
+Chocolate Cake,High sugar sweet dessert,159.0,"24,1","6,9","0,9",127,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,392.0,"32,9","0,5","17,5",205,Sehat
+Fried Rice,High carbohydrate oily salty,386.0,"32,9","3,3","6,8",146,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,87.0,"4,8","9,9","34,5",124,Sehat
+Spinach Soup,Vegetable low calorie healthy,450.0,"20,6","25,7",20,72,Sehat
+Beef Burger,High protein high fat fast food,397.0,"30,2","22,3","6,1",834,Tidak Sehat
+Boiled Egg,High protein healthy,128.0,"19,5",21,"14,9",729,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,340.0,"31,8","14,2","2,3",972,Sehat
+French Fries,High fat salty snack,398.0,"11,8","11,2","9,7",37,Tidak Sehat
+Apple Fresh,Fruit low calorie sweet healthy,409.0,"10,7","20,5","25,2",962,Sehat
+Sweet Soda Drink,Sweet drink high sugar,316.0,"32,8","17,3","28,1",460,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,103.0,1,"14,1","22,4",231,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,71.0,"16,2","16,3","7,1",768,Sehat
+Fried Rice,High carbohydrate oily salty,329.0,"29,5","15,1","29,6",131,Tidak Sehat
+Chocolate Cake,High sugar sweet dessert,171.0,"31,9","15,7","18,7",138,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,283.0,"3,1",22,"7,6",109,Sehat
+Chocolate Cake,High sugar sweet dessert,443.0,"16,4","16,9","33,1",356,Tidak Sehat
+Orange Fresh,Fruit vitamin sweet healthy,173.0,"24,9","5,7","7,3",913,Sehat
+Beef Burger,High protein high fat fast food,126.0,"12,5","4,9","30,2",578,Tidak Sehat
+Boiled Egg,High protein healthy,187.0,"8,6","16,8","33,5",89,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,134.0,"25,6","26,9","33,7",257,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,395.0,"1,1","17,2","7,3",297,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,424.0,1,14,11,27,Sehat
+Fried Chicken,High fat salty unhealthy,446.0,"16,6","0,7","7,7",766,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,332.0,"27,9","9,5","0,4",928,Sehat
+Chocolate Cake,High sugar sweet dessert,184.0,"8,2","4,1","23,8",67,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,353.0,"24,4","20,8",17,555,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,115.0,"13,1","12,9","6,6",104,Sehat
+Sweet Soda Drink,Sweet drink high sugar,287.0,"4,7","21,7","29,2",68,Tidak Sehat
+Beef Burger,High protein high fat fast food,106.0,"18,5","29,6","8,8",350,Tidak Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,72.0,27,"7,1","17,7",106,Sehat
+Ice Cream,High sugar sweet dessert,313.0,"5,5","24,7","30,2",917,Tidak Sehat
+Beef Burger,High protein high fat fast food,365.0,"4,7","7,8","28,3",840,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,277.0,"12,2","19,8","5,2",297,Tidak Sehat
+Sweet Soda Drink,Sweet drink high sugar,443.0,"20,7","11,6","15,9",316,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,263.0,"12,7",7,"11,2",959,Tidak Sehat
+Ice Cream,High sugar sweet dessert,329.0,"1,2","11,6","28,2",109,Tidak Sehat
+French Fries,High fat salty snack,99.0,"16,6","29,7","7,7",702,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,425.0,17,"9,8","21,3",461,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,203.0,"19,4","15,1","20,5",947,Sehat
+Spinach Soup,Vegetable low calorie healthy,53.0,"29,1","29,8","27,6",430,Sehat
+Fried Rice,High carbohydrate oily salty,435.0,"9,6",15,"27,9",334,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,57.0,"18,8","9,5","24,2",988,Sehat
+French Fries,High fat salty snack,417.0,"28,8","5,7","11,9",231,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,272.0,"23,9",28,"24,8",8,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,206.0,"33,8",28,"4,6",724,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,80.0,"7,5","2,6","30,1",441,Sehat
+Grilled Chicken Breast,High protein low fat healthy,183.0,5,"1,6",7,256,Sehat
+Sweet Soda Drink,Sweet drink high sugar,396.0,"9,5",16,24,452,Tidak Sehat
+Ice Cream,High sugar sweet dessert,77.0,"28,3","28,6","20,6",909,Tidak Sehat
+Beef Burger,High protein high fat fast food,214.0,"31,7","7,5","14,1",204,Tidak Sehat
+French Fries,High fat salty snack,378.0,"2,9","29,5",24,317,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,237.0,"13,3","29,6","30,6",161,Tidak Sehat
+Boiled Egg,High protein healthy,389.0,14,"0,9",19,175,Sehat
+Instant Noodle,High sodium salty carbohydrate,81.0,"31,4",17,5,829,Tidak Sehat
+Sweet Soda Drink,Sweet drink high sugar,142.0,"12,9","8,7","16,9",232,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,320.0,"23,2","16,5","5,4",502,Sehat
+Sweet Soda Drink,Sweet drink high sugar,88.0,"25,3","28,5","0,4",855,Tidak Sehat
+French Fries,High fat salty snack,135.0,"4,3","23,7","34,9",100,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,339.0,"6,2","26,5","2,5",693,Sehat
+French Fries,High fat salty snack,163.0,"6,9","12,7","33,7",942,Tidak Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,185.0,"13,2","7,2","29,7",70,Sehat
+Salmon Grilled,High protein healthy fat omega,392.0,"4,7","24,3","29,3",855,Sehat
+Chocolate Cake,High sugar sweet dessert,84.0,"3,3",3,"27,3",644,Tidak Sehat
+Instant Noodle,High sodium salty carbohydrate,358.0,"20,5","14,7","2,8",279,Tidak Sehat
+Boiled Egg,High protein healthy,70.0,"33,3","27,2","19,6",845,Sehat
+Grilled Chicken Breast,High protein low fat healthy,296.0,"17,3","9,7","21,1",228,Sehat
+Salmon Grilled,High protein healthy fat omega,436.0,"0,6","7,3","4,1",674,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,443.0,"29,2","27,5","21,6",70,Sehat
+Fried Chicken,High fat salty unhealthy,410.0,"1,9","21,8","13,3",305,Tidak Sehat
+Beef Burger,High protein high fat fast food,91.0,"4,1","12,8","34,9",705,Tidak Sehat
+Spinach Soup,Vegetable low calorie healthy,122.0,"23,5","2,4","5,9",562,Sehat
+Grilled Chicken Breast,High protein low fat healthy,297.0,"27,9","1,2",5,967,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,163.0,"18,7","23,9","10,5",809,Sehat
+Sweet Soda Drink,Sweet drink high sugar,363.0,22,"28,8","19,8",552,Tidak Sehat
+Fried Chicken,High fat salty unhealthy,292.0,"30,7","0,7","30,6",587,Tidak Sehat
+Beef Burger,High protein high fat fast food,120.0,"34,2","3,7","10,6",453,Tidak Sehat
+Spinach Soup,Vegetable low calorie healthy,436.0,"14,2","2,6","27,1",865,Sehat
+Fried Chicken,High fat salty unhealthy,122.0,"5,8","24,3","28,6",296,Tidak Sehat
+Beef Burger,High protein high fat fast food,135.0,"23,2","13,4","32,1",106,Tidak Sehat
+French Fries,High fat salty snack,199.0,"15,4","3,6","0,7",149,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,339.0,"16,2","23,5","21,7",707,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,406.0,"30,3","7,6","5,8",163,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,405.0,"10,9","15,3",27,875,Sehat
+Sweet Soda Drink,Sweet drink high sugar,411.0,"8,1","1,4","20,1",31,Tidak Sehat
+Beef Burger,High protein high fat fast food,380.0,"7,3",6,"24,3",583,Tidak Sehat
+Beef Burger,High protein high fat fast food,142.0,"21,1","29,7","26,7",456,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,233.0,"11,6","7,1","0,6",607,Sehat
+Ice Cream,High sugar sweet dessert,331.0,"28,9","26,5","21,7",400,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,423.0,"12,6","22,4","22,1",588,Sehat
+Boiled Egg,High protein healthy,101.0,15,"12,8","6,9",759,Sehat
+French Fries,High fat salty snack,127.0,"15,6","15,4","21,8",648,Tidak Sehat
+Orange Fresh,Fruit vitamin sweet healthy,82.0,"14,1","6,4",9,65,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,51.0,16,11,"5,8",340,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,76.0,"8,9",8,31,985,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,419.0,"11,9","0,8","32,5",766,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,152.0,27,"9,1",13,619,Sehat
+Boiled Egg,High protein healthy,110.0,"32,1","21,1","8,8",169,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,66.0,"18,1","3,9","7,1",864,Sehat
+Fried Chicken,High fat salty unhealthy,401.0,"24,8","24,8","1,3",325,Tidak Sehat
+Fried Rice,High carbohydrate oily salty,413.0,"32,6","21,6","3,3",344,Tidak Sehat
+Apple Fresh,Fruit low calorie sweet healthy,150.0,"25,1",28,"2,9",337,Sehat
+Salmon Grilled,High protein healthy fat omega,312.0,"19,5","18,4","19,3",883,Sehat
+Salmon Grilled,High protein healthy fat omega,273.0,"7,6","13,2","28,8",451,Sehat
+Grilled Chicken Breast,High protein low fat healthy,334.0,"9,9","13,6","2,1",435,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,66.0,"7,3","1,7",33,706,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,178.0,"30,7",26,"16,9",25,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,384.0,"26,1","2,7","7,3",476,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,233.0,"4,9",22,"17,4",305,Sehat
+Spinach Soup,Vegetable low calorie healthy,192.0,"22,3","9,2","1,1",548,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,366.0,"17,5","4,8","15,2",619,Sehat
+Fried Rice,High carbohydrate oily salty,268.0,"18,2","2,9","10,5",251,Tidak Sehat
+Sweet Soda Drink,Sweet drink high sugar,352.0,"29,1","21,7","6,4",942,Tidak Sehat
+French Fries,High fat salty snack,348.0,"23,4","18,9","7,5",236,Tidak Sehat
+Fried Chicken,High fat salty unhealthy,66.0,"20,3","10,5","4,1",120,Tidak Sehat
+Apple Fresh,Fruit low calorie sweet healthy,415.0,"31,9","19,2","12,6",414,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,339.0,"28,9","25,4","18,4",694,Sehat
+Instant Noodle,High sodium salty carbohydrate,250.0,"3,1","22,2","24,8",630,Tidak Sehat
+Fried Chicken,High fat salty unhealthy,320.0,"15,8","15,6","24,9",704,Tidak Sehat
+Spinach Soup,Vegetable low calorie healthy,322.0,"11,4",22,"4,1",124,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,273.0,"17,5","19,7","4,8",63,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,204.0,"21,4","4,8","20,5",298,Sehat
+Orange Fresh,Fruit vitamin sweet healthy,388.0,"4,4","3,8","31,3",155,Sehat
+Beef Burger,High protein high fat fast food,260.0,"16,2","17,5",19,914,Tidak Sehat
+French Fries,High fat salty snack,425.0,"7,2","25,4","4,4",998,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,254.0,"17,5","3,7","6,6",300,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,62.0,"34,3","16,2","8,7",259,Sehat
+Grilled Chicken Breast,High protein low fat healthy,219.0,"32,6","0,3","2,4",943,Sehat
+Grilled Chicken Breast,High protein low fat healthy,294.0,"12,9","3,6","9,1",902,Sehat
+Grilled Chicken Breast,High protein low fat healthy,55.0,"25,1","25,1","2,6",761,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,352.0,"31,6","13,3","29,5",536,Sehat
+Fried Rice,High carbohydrate oily salty,446.0,"11,2","22,4","26,5",194,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,266.0,"21,5","21,5","25,7",478,Sehat
+Spinach Soup,Vegetable low calorie healthy,167.0,21,"20,8","31,9",773,Sehat
+Instant Noodle,High sodium salty carbohydrate,223.0,"25,8","29,9","10,5",156,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,336.0,"12,5","6,5","3,4",482,Sehat
+Ice Cream,High sugar sweet dessert,133.0,"30,1","4,3",29,94,Tidak Sehat
+Ice Cream,High sugar sweet dessert,422.0,"5,1","13,5","27,7",503,Tidak Sehat
+Spinach Soup,Vegetable low calorie healthy,193.0,"34,9","2,4",21,826,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,64.0,"24,5","11,4","18,5",189,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,82.0,"34,6","21,8","22,7",567,Sehat
+Ice Cream,High sugar sweet dessert,353.0,"11,7","27,1","5,7",561,Tidak Sehat
+Fried Chicken,High fat salty unhealthy,449.0,2,"15,5","3,5",838,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,56.0,"2,2","5,3","1,2",957,Sehat
+Sweet Soda Drink,Sweet drink high sugar,54.0,"34,7","11,8","7,1",267,Tidak Sehat
+Salmon Grilled,High protein healthy fat omega,175.0,"3,3","27,3","10,1",495,Sehat
+Chocolate Cake,High sugar sweet dessert,440.0,"2,4","15,1","10,5",183,Tidak Sehat
+Beef Burger,High protein high fat fast food,286.0,"6,8","25,1",12,302,Tidak Sehat
+Orange Fresh,Fruit vitamin sweet healthy,165.0,"22,1","26,4","3,4",668,Sehat
+Salmon Grilled,High protein healthy fat omega,199.0,"34,8","0,5",7,137,Sehat
+Chocolate Cake,High sugar sweet dessert,387.0,"31,4","18,3","20,2",651,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,245.0,"4,6","15,1","22,1",832,Sehat
+French Fries,High fat salty snack,72.0,"16,4","19,1","31,4",642,Tidak Sehat
+Spinach Soup,Vegetable low calorie healthy,336.0,"13,5","14,5",17,368,Sehat
+Fried Chicken,High fat salty unhealthy,302.0,"29,9","5,2","1,8",935,Tidak Sehat
+Ice Cream,High sugar sweet dessert,71.0,"3,6","17,6","6,1",988,Tidak Sehat
+Spinach Soup,Vegetable low calorie healthy,155.0,"11,1","5,4","15,7",721,Sehat
+Fried Rice,High carbohydrate oily salty,323.0,"31,8","14,4","14,9",720,Tidak Sehat
+Beef Burger,High protein high fat fast food,85.0,15,21,"23,8",604,Tidak Sehat
+Sweet Soda Drink,Sweet drink high sugar,207.0,"18,7","26,6","18,2",237,Tidak Sehat
+French Fries,High fat salty snack,410.0,"9,7",23,"20,9",823,Tidak Sehat
+Beef Burger,High protein high fat fast food,319.0,"12,3","11,1","20,3",244,Tidak Sehat
+Fried Chicken,High fat salty unhealthy,164.0,"22,4","3,1","0,1",344,Tidak Sehat
+Sweet Soda Drink,Sweet drink high sugar,109.0,"30,9","8,2","34,4",125,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,315.0,"11,6","9,3","31,8",37,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,189.0,"29,9","17,6","17,1",601,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,274.0,"8,9","25,5",20,408,Sehat
+Fried Chicken,High fat salty unhealthy,403.0,"15,1","9,6",11,468,Tidak Sehat
+Orange Fresh,Fruit vitamin sweet healthy,104.0,"22,3","29,2","34,1",563,Sehat
+Sweet Soda Drink,Sweet drink high sugar,161.0,"14,5","26,4","9,4",789,Tidak Sehat
+Ice Cream,High sugar sweet dessert,430.0,"8,8","29,2","24,3",362,Tidak Sehat
+Apple Fresh,Fruit low calorie sweet healthy,80.0,"1,3","23,1","30,5",392,Sehat
+Grilled Chicken Breast,High protein low fat healthy,410.0,"24,2","10,3","11,4",778,Sehat
+Salmon Grilled,High protein healthy fat omega,63.0,"26,7","3,7","26,7",798,Sehat
+Oatmeal Plain,High fiber healthy carbohydrate,292.0,"6,4","13,4","0,2",683,Sehat
+Sweet Soda Drink,Sweet drink high sugar,82.0,"22,2","10,2","33,4",348,Tidak Sehat
+Grilled Chicken Breast,High protein low fat healthy,350.0,"8,3","5,1","28,7",315,Sehat
+Spinach Soup,Vegetable low calorie healthy,398.0,"16,3","19,5",27,413,Sehat
+Boiled Egg,High protein healthy,170.0,"32,2","29,7",26,825,Sehat
+Steamed Broccoli,Low calorie high fiber healthy,115.0,"21,9","12,5","16,4",88,Sehat
+Apple Fresh,Fruit low calorie sweet healthy,137.0,"6,1","7,3","24,7",733,Sehat
+Spinach Soup,Vegetable low calorie healthy,83.0,"28,1","15,8","17,6",769,Sehat
+Ice Cream,High sugar sweet dessert,173.0,"1,4","24,1","32,8",959,Tidak Sehat
+Steamed Broccoli,Low calorie high fiber healthy,395.0,"15,9",28,"21,4",996,Sehat
