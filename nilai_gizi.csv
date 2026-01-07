@@ -1,0 +1,640 @@
+Food_Name;Food_Text;Energy_kcal;Protein_g;Fat_g;Sugar_g;Sodium_mg;Carbohydrate_g;Label_Kesehatan
+Ikan sunu;High protein;199;34,1;3,8;0;377;7,1;Cukup Sehat
+Soto pekalongan;Moderate nutrients;94;3;6,8;0;0;5,1;Sehat
+Marie duo;Moderate nutrients;15;1;3,5;5;85;14;Sehat
+Kaparende;Moderate nutrients;38;2,4;2;0;170;2,6;Sehat
+Kacang lebui;High calorie, high carb, high fiber;346;16,5;1,5;0;17;66,6;Sehat
+The coffe bean vanilla ice blended drink;High calorie, high sugar, high carb;410;15;;63;0;70;Kurang Sehat
+Dairy queen banana split;High calorie, high sugar, high carb;520;9;14;72;0;92;Kurang Sehat
+Gembili;High carb;131;1,1;0,2;0;10;31,3;Sehat
+Baked lotus paste mooncake;High fat;223;4,05;13,79;0;0;20,5;Kurang Sehat
+Cumi-cumi;High protein;75;16,1;0,7;0;37;0,1;Sehat
+Kunyit;Moderate nutrients;69;2;2,7;0;6;9,1;Sehat
+The coffe bean black forest ice blended drink;High calorie, high sugar, high carb;490;12;10;76;0;89;Kurang Sehat
+Coklat silverqueen almond;High fat, high sugar;170;4;11;11;0;14;Kurang Sehat
+Daun gedi besar;Moderate nutrients;58;2,9;0,7;0;30;10;Sehat
+Kopi hitam tanpa gula;Low calorie;2;0,28;0,05;0;0;0,09;Sehat
+Tumis keumamah;High fat;300;14,5;20;0;0;15,5;Kurang Sehat
+Regal Biskuit Marie;Moderate nutrients;70;1;2;0;45;12;Sehat
+Teh hijau daun kering;High calorie, high protein, high carb;300;28,3;4,8;0;60;53,6;Cukup Sehat
+Susu ultra milk rasa coklat;Moderate nutrients;160;6;4;0;45;24;Sehat
+Frisian flag putih;High sugar;140;1;4;19;0;23;Kurang Sehat
+Sedaap Kecap Manis;High sugar;70;1;0;13;290;16;Kurang Sehat
+Outback steackhouse prime rib;High calorie, high fat;700;46;57;0;0;0;Kurang Sehat
+Es krim Diamond vanilla;Moderate nutrients;110;2;6;9;0;12;Sehat
+Genjer;Moderate nutrients;35;1,7;0,2;0;64;7,7;Sehat
+Taoge kacang kedelai;High protein;76;9;2,6;0;5;6,4;Sehat
+Renggi Goreng;High calorie, high fat, high carb;471;4,7;21,8;0;126;64,1;Kurang Sehat
+Saus Char siu;High sugar, high carb;60;0;0;13;0;14;Kurang Sehat
+Daun kedongdong;High fiber;59;3,5;0,3;0;12;13,4;Sehat
+Semur jengkol;High carb;212;6;10;0;0;29,1;Cukup Sehat
+Chatime taro milk tea;High calorie, high sugar, high carb;399;2;12;54,5;0;70;Kurang Sehat
+Biokul natural set yogurt;Moderate nutrients;70;5;1;3;0;10;Sehat
+Kambose;High carb;164;3;2,4;0;0;32,6;Sehat
+Sarden ABC saus tomat;High protein;100;12;2;2;0;9;Sehat
+Parede baleh;High sodium;87;10,5;2,5;0;416;5,5;Cukup Sehat
+Nasi gurih;Moderate nutrients;190;4,7;7,5;0;296;26;Sehat
+You C100 Orange water;High sugar;160;0;0;40;0;40;Kurang Sehat
+Diamond Milk Susu UHT Full Cream;Moderate nutrients;120;6;6;0;100;10;Sehat
+Kacang tolo;High calorie, high protein, high carb;331;24,4;1,9;0;15;56,6;Sehat
+Babi daging kurus;High calorie, high fat;371;14,1;35;0;97;0;Kurang Sehat
+Keripik tempe abadi besar;High calorie, high fat, high carb;556;15,8;37,1;0;0;39,8;Kurang Sehat
+Sunduk lawang;High carb;181;1,9;1,3;0;0;32,4;Sehat
+Jengkol;High carb;192;5,4;0,3;0;60;40,7;Sehat
+Ketan putih;High carb;163;3;0,4;0;8;35,7;Sehat
+Susu Ultra Milk Rasa coklat;High sugar, high carb;45;8;5;24;55;30;Kurang Sehat
+Jagung kuning tepung;High calorie, high carb;355;9,2;3,9;;11;73,7;Sehat
+Padamaran;Moderate nutrients;171;3,9;8,9;0;0;18,8;Sehat
+Beras tumbuk merah;High calorie, high carb;352;7,3;0,9;0;10;76,2;Sehat
+Karawila;Moderate nutrients;25;2,3;0,2;0;8;3,5;Sehat
+Ikan teri nasi kering;High protein, high sodium;144;32,5;0,6;0;312;0;Cukup Sehat
+Nutrisari Yuzu Orange;High sugar;45;;0;9;20;10;Sehat
+Sate pusut;High sodium;274;12,9;18,6;0;609;13,6;Kurang Sehat
+Kue bangen;High calorie, high carb;442;3,3;14,7;0;0;74,2;Kurang Sehat
+Burger Carl's Jr the big carl;High calorie, high fat;920;47;58;12;0;56;Kurang Sehat
+Coklat manis batang;High calorie, high fat, high carb;527;2;29,8;0;6;62,7;Kurang Sehat
+Moon tahu;High sodium;128;8;10;0;393;1,3;Cukup Sehat
+Bakwan;High carb;280;8,2;10,2;0;0;39;Cukup Sehat
+Roti boong;High calorie, high fat, high carb;341;5,5;16,2;0;161;43,3;Kurang Sehat
+Nestle honey star sereal;High carb;110;1;1;0;10;25;Sehat
+Es krim Wall's oreo chocolate;High sugar;140;2;4;15;0;21;Kurang Sehat
+Minyak hati hiu;High calorie, high fat;902;0;100;0;0;0;Kurang Sehat
+Onde-onde;High carb;336;4;9,8;0;0;57,9;Sehat
+Sarimi isi 2 ayam bawang;High calorie, high fat, high carb;510;13;20;3;0;70;Kurang Sehat
+Mie Kuah Gaga Xtra Pedas Jalapeno;High sodium, high carb;120;9;13;2;1320;43;Kurang Sehat
+Kin bulgarian yogurt strawberry;High sugar, high carb;35;4;3,5;27;50;29;Kurang Sehat
+Lumai;Moderate nutrients;38;1,1;0,3;0;2;7,6;Sehat
+Keripik tempe abadi prima;High calorie, high fat, high carb;540;16,7;33,9;0;0;42;Kurang Sehat
+Hokben Chicken karaage;High fat;340;25;20,5;0;0;15;Cukup Sehat
+Kwaci;High calorie, high fat, high protein;515;30,6;42,1;0;124;13,8;Cukup Sehat
+Sawo duren;Moderate nutrients;64;1;3,1;0;13;8;Sehat
+Subway Turkey breast sandwich;High protein, high carb;280;18;3,5;7;0;46;Sehat
+Qtela Tempe;Moderate nutrients;110;4;7;0;0;8;Sehat
+Telur burung maleo;High calorie, high fat;436;26,5;36,3;0;77;0,4;Cukup Sehat
+Marie salut cokelat;Moderate nutrients;90;1;3,5;6;35;13;Sehat
+Nabati HANSEL;Moderate nutrients;70;2;4;5;30;7;Sehat
+Kacang panjang biji;High calorie, high carb, high fiber;357;17,3;1,5;0;16;68,6;Sehat
+Koro roay;High calorie, high carb;344;12,5;2,1;0;18;69,4;Sehat
+Bolu peca;High carb;197;3,3;4,6;0;0;35,6;Sehat
+Air putih;No nutrients;0;0;0;0;0;0;Sehat
+Mr. Bread Roti tawar gandum;High sodium, high carb;199;7;3;2;487;36;Cukup Sehat
+Kacang hijau var. Siwalik;High calorie, high carb, high fiber;339;20,8;2,1;0;45;64,6;Sehat
+Ikan Lehoma;High protein;90;20,4;0,9;0;56;0;Sehat
+Wingko babat;High calorie, high carb;355;3,2;15,1;0;0;51,4;Kurang Sehat
+Permen frozz mint;Low calorie;0;0;0;0;0;1;Sehat
+Daun kecipir;High protein;52;5;0,5;0;6;8,5;Sehat
+Frisian flag french vanilla low fat;Moderate nutrients;110;7;2,5;16;110;16;Cukup Sehat
+Cumi-cumi goreng;High protein;265;40,6;10,1;0;86;0;Sehat
+Melinjo emping tipis goreng;High calorie, high fat, high carb;485;11,5;24,5;0;0;59,1;Kurang Sehat
+Apem;High carb;148;2;0,5;0;0;33,9;Sehat
+Beef teriyaki;High sodium;151;8,6;3,1;0;377;22,3;Cukup Sehat
+Saori Saus Tiram;High sodium;5;0;0;0;290;2;Sehat
+Ketan hitam tapai;High carb;166;3,8;1;0;5;34,4;Sehat
+Gete kuah asam;High sodium;75;8,2;2;0;260;6;Cukup Sehat
+Duwet;High carb;80;0,5;0,6;0;16;18,2;Sehat
+Mie Lemonilo ayam bawang;High sodium, high carb;267;9;4;1;948;49;Kurang Sehat
+Bouiki ninahu nggaluku;Moderate nutrients;94;7,8;2,2;0;58;10,8;Sehat
+Coklat pahit batang;High calorie, high fat, high carb;615;5,5;42,6;0;20;29,2;Kurang Sehat
+Supermi ayam Bawang;High sodium, high carb;130;7;15;2;1030;46;Kurang Sehat
+Coco pops;High carb;120;2;0,5;12;0;26;Sehat
+Buah naga merah;Moderate nutrients;71;1,7;3,1;0;10;9,1;Sehat
+Gulai keumamah;High sodium;110;5,9;8,2;0;335;3,2;Cukup Sehat
+Ampas tahu kukus;Moderate nutrients;75;4,1;2,1;0;0;10,7;Sehat
+Cold Stone Creamery chocolate Devotion;High calorie, high fat, high carb, high sugar;870;13;45;91;0;108;Kurang Sehat
+Lepok;High carb, high fiber;181;2,8;1,2;0;116;39,8;Sehat
+Rajungan;High protein;76;12,1;2;0;69;2,4;Sehat
+Permen mentos peppermint;Low calorie;5;0;0;0;0;1;Sehat
+Pop mie kuah pedes dower;High fat, high carb;360;6;16;4;0;46;Kurang Sehat
+Ketimun madura;Low calorie;9;0,5;0,1;0;2;1,9;Sehat
+Getuk goreng;High calorie, high carb;360;1,3;6,4;0;0;74,3;Kurang Sehat
+Laksa;Moderate nutrients;121;1,7;3,4;0;0;21,1;Sehat
+Ultramilk low fat source of calcium;Moderate nutrients;90;7;2,5;0;105;11;Sehat
+Kacang urei;High calorie, high carb, high fiber;354;12,8;1,8;0;1;69,3;Sehat
+Ganyong;High carb;77;0,6;0,2;0;0;18,4;Sehat
+Keju;High sodium, high fat;326;22,8;20,3;0;1410;13,1;Kurang Sehat
+Bebek (itik) daging;High calorie, high fat;321;16;28,6;0;54;0;Kurang Sehat
+Sagu Lemak;High calorie, high carb;452;2,8;14,8;0;182;76,8;Kurang Sehat
+Buah kelenting;High carb;110;1,4;2,1;0;2;21,4;Sehat
+Masekat;High calorie, high carb;369;2,1;7;0;141;74,1;Kurang Sehat
+Bakpia;High carb;272;8,7;6,7;0;0;44,1;Sehat
+Coklat susu batang;High calorie, high fat, high carb;565;9;35;0;100;53,6;Kurang Sehat
+Es teh manis;High carb;90;0,02;0;0;0;23,44;Sehat
+Cap cai;High sodium;97;5,8;6,3;0;405;4,2;Cukup Sehat
+Keju cheddar;High fat;404;22,87;33,31;0;0;3,09;Kurang Sehat
+Sawo kecik;Moderate nutrients;111;0,9;2,3;0;28;21,6;Sehat
+Keju kraft cheddar;Moderate nutrients;70;4;5;0;0;2;Sehat
+Starbucks hot caffe mocha;High carb;250;13;2,5;0;0;42;Sehat
+Koya;High carb;366;4,2;4,3;0;0;77,5;Kurang Sehat
+Mi golosor;High carb;71;0,2;0,8;0;0;15,9;Sehat
+Good day cappuccino;High carb, high sugar;170;1;3,5;25;0;32;Kurang Sehat
+Susu asam untuk bayi bubuk;High calorie, high carb;418;19;9;0;188;65,5;Kurang Sehat
+Kacang bogor kering;High calorie, high carb, high fiber;370;16;6;0;44;65;Sehat
+Khong guan malkist seaweed;Moderate nutrients;90;1;3,5;2;0;12;Sehat
+Cantel;High calorie, high carb;366;11;3,3;0;7;73;Sehat
+Daun bluntas;Moderate nutrients;44;1,8;0,5;0;0;9,4;Sehat
+Margarine;High calorie, high fat, high sodium;720;0,6;81;0;760;0,4;Kurang Sehat
+Pocari sweat;Moderate nutrients;70;0;0;16;0;17;Cukup Sehat
+Starbucks iced caffe latte;Moderate nutrients;120;8;7;0;0;13;Sehat
+Susu kental manis;High calorie, high carb;343;8,2;10;0;150;55;Kurang Sehat
+Royco sup krim ayam;High sodium;50;2;1;2;710;9;Kurang Sehat
+Keong;High sodium;64;12;1;0;231;2;Cukup Sehat
+Daging Ayam;High calorie, high fat;298;18,2;25;0;109;0;Kurang Sehat
+Babi daging gemuk;High calorie, high fat;453;11,9;45;0;112;0;Kurang Sehat
+Daun pangi;High fiber;104;3,9;0,6;0;4;17,9;Sehat
+Snow skin lotus paste mooncake;Moderate nutrients;187;2,12;8,04;0;0;26,36;Sehat
+Adem sari herbal lemon;High sugar;60;0;0;14;65;16;Kurang Sehat
+Pucuk lumai;Moderate nutrients;33;4,5;0,4;0;2;2,8;Sehat
+Ayam goreng church texas;High sodium, high protein;295;34;16;0;771;1,5;Cukup Sehat
+Wortel rebus;Moderate nutrients;28;0,7;0,5;0;41;6,3;Sehat
+Babi hati;High protein;129;19,7;4,8;0;110;1,7;Sehat
+Gekikara ramen;High sodium, high carb;160;9;18;4;1200;74;Kurang Sehat
+Kopi Indocafe coffemix 3 in 1;High sugar, high carb;90;1;2;13;0;17;Kurang Sehat
+Sprite 390 ml;High carb, high sugar;0;0;0;25;40;25;Kurang Sehat
+Nutri boost orange;High sodium, high carb;170;2;1,5;0;180;37;Kurang Sehat
+Ketan putih tapai;High carb;172;3;0,5;0;1;37,5;Sehat
+Rempeyek kacang tanah;High calorie, high fat, high carb;513;17,5;32,5;0;0;44,3;Kurang Sehat
+Kacang merah;High calorie, high carb, high fiber;350;13,9;3;0;19;66,9;Sehat
+Kacang gude biji segar;Moderate nutrients;114;7;0,6;0;4;20,8;Sehat
+Mr. Bread Roti tawar choco chips;High carb;227;7;5;8;286;38,5;Cukup Sehat
+Royco kaldu sapi;No nutrients;0;0;0;0;0;0;Sehat
+Frisian Flag kental manis kemasan ekonomis;High fat, high sugar;140;1;40;19;25;23;Kurang Sehat
+Starbucks iced caffe latte (notfat milk);Moderate nutrients;90;8;0;0;0;13;Sehat
+Starbucks hot caffe latte (notfat milk);Moderate nutrients;130;13;0;0;0;20;Sehat
+Tempe kedelai murni goreng;High fat;350;24,5;26,6;0;22;10,4;Kurang Sehat
+Chitato keripik kentang original;Moderate nutrients;100;1;5;0;60;12;Sehat
+Whiskey;Moderate nutrients;250;0;0;0;0;0,1;Sehat
+Beras ketan hitam tumbuk;High calorie, high carb;360;8;2,3;0;11;74,5;Sehat
+Khong Guan Malkist abon;Moderate nutrients;80;2;3;3;0;13;Sehat
+Oreo;High sugar, high fat;140;1;6;11;0;21;Kurang Sehat
+Kurma;High carb, high fiber;282;2,45;0,39;0;2;75,03;Sehat
+Nopia spesial;High calorie, high carb;387;5,3;7,6;0;0;74,3;Kurang Sehat
+Cheesecake Factory Oreo dream extreme cheesecake;High calorie, high fat, high carb, high sugar;1620;17;99;134;0;178;Kurang Sehat
+Sedaap Tasty bakmi ayam geprek matah;High carb, high sodium;190;14;21;2;870;81;Kurang Sehat
+Sate bandeng;High sodium;283;12,1;16,8;0;543;20,9;Kurang Sehat
+Daun kemang;High fiber;43;5,5;0,3;0;10;7,5;Sehat
+Saus sambal ABC;Moderate nutrients;28;0;0;5;0;6;Sehat
+Coklat Hershey's kisses milk chocolate;Moderate nutrients;22;0,3;1,3;2,6;0;2,8;Sehat
+Ikan Tempahas;Moderate nutrients;101;15,1;4,1;0;50;1;Sehat
+Sapi daging kornet;High sodium, high fat;289;16;25;0;794;0;Kurang Sehat
+Chitato fresh potato;Moderate nutrients;110;1;6;0;0;12;Sehat
+Oncom ampas kacang hijau;High calorie, high carb;376;14,9;6;0;0;65,7;Sehat
+Good day mocacino;High sugar, high carb;90;1;2;13;10;16;Kurang Sehat
+Lamtoro var. lokal dengan kulit;High calorie, high carb, high fiber;336;23,8;1,2;0;134;59,7;Sehat
+Teh botol sosro original;High sugar, high carb;140;0;0;32;0;34;Kurang Sehat
+Daun leilem;Moderate nutrients;76;2,8;0,2;0;6;15,8;Sehat
+Mcdonald Mc double;High protein;380;23;18;7;0;34;Cukup Sehat
+Keripik tempe abadi telur;High calorie, high fat, high carb;529;20,8;31,7;0;0;40,2;Kurang Sehat
+Angsa daging;High calorie, high fat;349;16,4;31,5;0;71;0;Kurang Sehat
+Keripik tempe abadi sedang;High calorie, high fat, high carb;510;12,3;27,9;0;0;52,4;Kurang Sehat
+Goodday Funtastic mocacinno;High sugar, high carb;140;3;2,5;18;75;26;Kurang Sehat
+Lovamil minuman ibu hamil dan menyusui;Moderate nutrients;160;8;3;0;135;25;Sehat
+Wortel kukus;Moderate nutrients;37;1;0,6;0;43;8,3;Sehat
+Mie bendo;High carb;353;0,3;0;0;9;88;Sehat
+Cheesecake Factory oreo milkshake;High calorie, high fat, high carb, high sugar;1680;27;94;131;0;183;Kurang Sehat
+Roma Marie Gold;Moderate nutrients;90;2;3;4;0;15;Sehat
+Supermi Extra Mie Goreng;High calorie, high sodium, high carb;510;10;21;0;1130;70;Kurang Sehat
+Buah mentega;Moderate nutrients;39;0,7;0,2;0;1;9,7;Sehat
+Karedok;Moderate nutrients;92;2,2;3,3;0;0;14,1;Sehat
+Mie sedap instan goreng kriuk;High sodium, high carb;160;9;18;6;1170;57;Kurang Sehat
+Ice Cone;High carb, high sugar;190;5;4,5;24;0;32;Kurang Sehat
+Ikan Balong;High protein;107;16,5;3,9;0;86;1,5;Sehat
+TOPOKI Mujigae;High sodium, high carb;410;11;7;0;1390;78;Kurang Sehat
+ABC EXO milk coffe;High fat, high carb;160;8;24;22;0;24;Kurang Sehat
+Kalio jeroan;High sodium;163;16,5;9;0;570;4,1;Cukup Sehat
+Starbucks butter croissant;High fat, high carb;260;5;15;5;0;27;Kurang Sehat
+Daun mengkudu;Moderate nutrients;65;4;1,7;0;0;11,4;Sehat
+Sagu sinole;High carb;354;0,8;8,3;0;30;68,9;Sehat
+Nasi rames;Moderate nutrients;155;10,3;4,2;0;265;19,1;Sehat
+MAESTRO MAYONAISE;High sodium, high fat;90;0;9;0;210;2;Kurang Sehat
+Susu Ultra Milk Low Fat;Moderate nutrients;90;7;2,5;0;105;11;Sehat
+Ikan Baronang;High protein;78;14,5;0,6;0;26;3,7;Sehat
+ROYCO BUMBU AYAM SAUS TELUR ASIN;Moderate nutrients;30;1;1,5;0;50;2;Sehat
+Keju parmesan;High protein, high fat;420;28,42;27,84;0;0;13,91;Kurang Sehat
+Beras cerdas;High sodium, high carb;350;2,7;1,1;0;358;82,3;Cukup Sehat
+Indomie Goreng Rasa Rendang;High sodium, high carb;150;9;16;9;1060;59;Kurang Sehat
+Biokul plain yogurt;Moderate nutrients;90;5;0,5;7;0;15;Sehat
+Mr. Bread Roti tawar kupas;Moderate nutrients;119;4,5;2;1;209;21,5;Sehat
+Jukku pallu kaloa;High sodium;15;15,2;4,3;0;605;8,8;Cukup Sehat
+Mcdonald Mcnugget;High protein, high fat;270;15;16;0;0;16;Cukup Sehat
+Ayam dideh/darah;High sodium;75;13,8;1,9;0;337;0,7;Cukup Sehat
+Teh Kotak Rasa Lemon;High sugar, high carb;100;0;0;20;25;23;Kurang Sehat
+Jambu air;Moderate nutrients;46;0,6;0,2;0;11;11,8;Sehat
+SUN Bubur Bayi;High carb;160;4;2,5;0;100;31;Sehat
+Eceng;Moderate nutrients;19;1;0,2;0;45;3,8;Sehat
+Jagung muda rebus;High carb;142;5;0,7;0;5;30,3;Sehat
+Getuk pisang;High carb;144;1,1;0,4;0;0;34,1;Sehat
+Lupis ketan;High carb;164;1,8;2,1;0;0;34,5;Sehat
+Jambu monyet;High carb;64;0,7;0,6;0;12;15,8;Sehat
+Kacang goyang;High calorie, high fat, high carb;516;14,7;31,1;0;2;44,4;Kurang Sehat
+Mie Sedaap Cup Mi Kuah Soto;High sodium, high carb;370;8;16;2;1070;48;Kurang Sehat
+Nutricake Brownies Coklat;High carb;160;2;2,5;0;90;33;Sehat
+Starbucks caffe americano;Low calorie;15;1;0;0;0;3;Sehat
+Vanhouten cocoa powder;Moderate nutrients;120;6;4;0;0;15;Sehat
+Bawang bombay;Moderate nutrients;43;1,4;0,2;0;12;10,3;Sehat
+Tepung Arrowroot;High carb;355;0,7;0,2;0;2;85,2;Sehat
+Honey Stars;High carb, high sugar;110;1;0,5;8;0;25;Cukup Sehat
+Kelawi;High carb, high fiber;118;1,5;0,3;0;2;27,2;Sehat
+Bagea kw 1;High calorie, high carb;416;6,5;9,4;0;0;76,3;Kurang Sehat
+Tepung Mocaf;High carb;350;1,2;0,6;0;8;85;Sehat
+Indomie mi rendang;High calorie, high fat, high carb;420;9;16;9;0;59;Kurang Sehat
+Mangga harumanis;Moderate nutrients;46;0,4;0,2;0;2;11,9;Sehat
+Kaholeo;High protein, high fat;413;28,7;19,8;0;0;29,8;Cukup Sehat
+Origo coffe es kopi susu;High sugar;191;6,23;7,22;20,51;0;25,88;Kurang Sehat
+Daun pare;Moderate nutrients;49;2,7;1;0;7;8,4;Sehat
+Mie Sedaap instan white curry;High carb;360;8;14;3;840;50;Kurang Sehat
+Bantal;High sodium, high carb;190;3,3;0,3;0;164;43,5;Cukup Sehat
+Sarimi Gelas Rasa Soto Ayam;High sodium, high carb;60;3;7;2;940;16;Kurang Sehat
+MYTEA Teh Oolong;Moderate nutrients;0;0;0;0;20;18;Sehat
+Kuaci Rebo green tea;High sodium, high fat;110;6;9;1;180;2;Cukup Sehat
+Nestle corn flakes;High carb;110;2;0,5;0;0;24;Sehat
+Mi ABC cup soto ayam;Moderate nutrients;280;7;13;2;0;34;Cukup Sehat
+Kembang tahu;High protein;380;48,9;13,8;0;55;23,3;Cukup Sehat
+Ikan Bandeng;High protein;123;20;4,8;0;67;0;Sehat
+Kacang sukro;High calorie, high fat, high carb;484;8,8;26,1;0;0;57,7;Kurang Sehat
+Susu dancow rasa coklat;Moderate nutrients;160;5;6;0;100;23;Sehat
+Arrowroot;High carb;102;1;0,2;0;36;24,1;Sehat
+Starbucks cappuccino;Moderate nutrients;140;7;7;0;0;12;Sehat
+Kopi seduh;Low calorie;5;0,74;0;0;0;0,42;Sehat
+Cornetto Silverqueen;High sugar, high carb;110;3;12;18;50;28;Kurang Sehat
+Mie Lemonilo kari ayam;High sodium, high carb;270;8;5;1;1036;48;Kurang Sehat
+Bamboe Bumbu Rawon;High sodium;15;1;1,5;1;1020;2;Kurang Sehat
+Kacang mete goreng;High calorie, high fat;629;20,4;56,3;0;13;19,8;Kurang Sehat
+Daun ndusuk;High carb, high fiber;166;1,7;0,5;0;40;38,8;Sehat
+Kotiu hinela tawang nggole;High sodium;46;2,2;1,5;0;316;6;Cukup Sehat
+Fruit Tea yuzu;High sugar, high carb;220;0;0;50;0;54;Kurang Sehat
+Yuzu tea;Moderate nutrients;140;0;0;0;20;34;Sehat
+Keju Snow Brand Cheddar;High sodium, high fat;100;5;8;0;360;2;Kurang Sehat
+Sonice Chicken nugget;High protein, high fat;250;16;14;0;0;14;Cukup Sehat
+KFC extra crispy paha bawah;High fat;170;10;12;0;0;5;Cukup Sehat
+Tony roma's onion loaf;High calorie, high carb;1200;23;23;12;0;205;Kurang Sehat
+SUPERIOR Bihun Jagung urai;High carb;250;0;0;0;30;61;Sehat
+Roti warna sawo matang;High sodium, high carb;249;7,9;1,5;0;500;49,7;Cukup Sehat
+Tauco cap DAS;High carb;358;7,5;4,3;0;0;70,4;Sehat
+Paria putih kukus;Low calorie;16;0,8;0,2;0;4;3,4;Sehat
+Daun jambu mente muda;Moderate nutrients;78;4,6;0,5;0;14;16,2;Sehat
+Burger double whopper;High calorie, high fat, high protein;900;48;58;11;0;49;Kurang Sehat
+Kacang hijau var. Bakti;High calorie, high carb, high fiber;350;17,1;1,8;0;46;70,7;Sehat
+Keripik tempe abadi murni;High calorie, high fat, high protein;542;40,3;42,4;0;0;11,6;Kurang Sehat
+Tauco cap beruang;High carb;347;7,4;5,2;0;0;67,6;Sehat
+Kerupuk kemplang panggang;High carb;356;9,7;1,1;0;0;76,9;Sehat
+Woku ubi;High sodium;143;3,1;7,8;0;353;15;Cukup Sehat
+Fox's Fruits;Low calorie;15;0;0;3;0;4;Sehat
+Ayam goreng poineer;High protein;295;37,4;14,7;0;0;0,6;Cukup Sehat
+Keju greenfields ricotta;High fat;110;4;9;1;0;2;Cukup Sehat
+Indomie goreng Jumbo;High calorie, high carb;560;21;13;13;0;80;Kurang Sehat
+Beras giling var pelita;High calorie, high carb;369;9,5;1,4;0;34;77,1;Sehat
+Cimory Yogurt Squeeze Peach;Moderate nutrients;70;2;2;0;60;11;Sehat
+Melinjo emping tebal goreng manis;High calorie, high carb;439;10;16,4;0;0;65,7;Kurang Sehat
+Yogurt frozen pinkberry;High calorie, high carb, high sugar;390;15;1;77;0;81;Kurang Sehat
+Sagu lempeng;High carb;347;0,9;0,3;0;11;85,2;Sehat
+Bamboe soto daging;High sodium;5;1;0,5;1;730;2;Kurang Sehat
+Jagung tepung putih;High calorie, high carb, high fiber;355;9,2;3,9;0;11;73,7;Sehat
+Saladstop Hail caesar w/o chicken;High fat, high protein;471,9;22,8;34,3;3,5;0;19;Kurang Sehat
+Masako Kaldu Ayam;High sodium;0;0;0;0;610;0;Kurang Sehat
+Enting-enting gepuk hello kity;High calorie, high fat, high carb;538;13,6;30,3;0;0;52,6;Kurang Sehat
+Cimory Fresh Milk Cashew;High carb;260;10;9;0;140;33;Cukup Sehat
+Outback steackhouse Victoria's Filet;High protein;320;53;12;0;0;0;Sehat
+Kereput;High calorie, high fat, high carb;580;4,8;39,6;0;0;51,1;Kurang Sehat
+Kopi Indocafe cappuccino;High sugar, high carb;110;2;3;14;0;19;Kurang Sehat
+Rambutan binjai;High fiber;76;0,5;0,2;0;22;18;Sehat
+Nestle sereal corn flakes;High carb;110;2;0,5;0;180;24;Cukup Sehat
+Yangko;High carb;254;3;1,1;0;0;58,1;Sehat
+Gurandil;High carb;218;0,5;2,5;0;0;48,5;Sehat
+Kapusa;High carb;158;4,4;3,2;0;104;27,8;Sehat
+Tumis bayam bersantan;High fat;48;1,4;4,2;0;0;2,6;Sehat
+Dodol Banjarmasin;High calorie, high carb;368;2,6;8,6;0;48;70;Kurang Sehat
+Mixed nut and Ham Mooncake;High fat, high carb;245;5,4;15,3;0;0;21,38;Kurang Sehat
+Good time double choc;Moderate nutrients;30;1;3,5;4;80;11;Sehat
+Soto banjar;High fat;110;2,9;9,5;0;36;3,2;Cukup Sehat
+Nestle Carnation;High sugar, high carb;100;1;3;16;0;17;Kurang Sehat
+Bagea kelapa asin;High calorie, high carb;450;3,2;13,9;0;74;78,1;Kurang Sehat
+Suweg;Moderate nutrients;74;1,4;0,1;0;7;17,2;Sehat
+Yogurt greek heavenly blush honey;High sugar;180;5;10;9;40;18;Cukup Sehat
+Mie gaga;High carb;330;9;13;0;240;45;Cukup Sehat
+Susu Ultra Rasa Strawberry;Moderate nutrients;140;6;3,5;0;50;22;Sehat
+Coklat bubuk;High fiber;311;8;4;0;0;48,9;Sehat
+Mcdonald Double cheeseburger;High protein, high fat;430;25;21;7;0;35;Kurang Sehat
+WRP on the go;High sugar, high carb;150;7;3;16;0;24;Kurang Sehat
+Ikan Gete goreng;High protein, high fat, high sodium;267;23,1;19,4;0;590;0,2;Kurang Sehat
+Ikan Baung;High protein;123;15,1;5,5;0;32;3,3;Sehat
+Lemon pepper wings;High protein, high fat;180;15;13;0;0;1;Cukup Sehat
+Kue jahe;High calorie, high carb;425;1,6;8,8;0;0;84,6;Kurang Sehat
+Susu Ultra Milk Full cream;Moderate nutrients;150;8;8;0;0;12;Sehat
+Kacang mete;High calorie, high fat;616;16,3;48,4;0;26;28,7;Kurang Sehat
+Qtela tempe original;High sodium, high fat;70;4;7;0;125;8;Cukup Sehat
+Sapi liver;High protein;132;19,7;3,2;0;110;6;Sehat
+Biji kopi;High calorie, high carb, high fat;399;12,4;15,4;0;0;62,7;Kurang Sehat
+Super Bubur dengan kuah kari;High sodium, high carb;35;3;3,5;1;720;36;Kurang Sehat
+Tepung hunkwe;High carb, high fiber;364;4,5;1;0;15;83,5;Sehat
+Bakso;High sodium, high fat;202;12,41;13,16;0;478;7,58;Kurang Sehat
+Ketan hitam;High carb;181;4;1,2;0;9;37,3;Sehat
+Sirup Tropicana sirup slim orange;Low calorie;5;0;0;0;0;0;Sehat
+Bagea kw 2;High carb;382;0,3;3,5;0;0;87,2;Sehat
+Permen Mintz Duomint;Low calorie;0;0;0;2;0;2;Sehat
+Beras tepung;High carb;353;7;0,5;0;5;80;Sehat
+Morin Mixed fruit Jam;High sugar, high carb;0;0;0;9;0;11;Kurang Sehat
+Heavenly Blush;Moderate nutrients;90;2;2,5;5;0;15;Sehat
+Eskrim paddle pop choco magma;Moderate nutrients;70;1;2,5;8;0;12;Sehat
+Susu ibu - ASI;Moderate nutrients;62;1,5;3,2;0;15;7;Sehat
+Pop mie rasa kari ayam;High carb;350;7;16;4;0;45;Kurang Sehat
+Starbucks hot caffe latte;Moderate nutrients;230;12;12;0;0;19;Cukup Sehat
+Lays 14g;High sodium, high fat;70;1;7;0;70;10;Cukup Sehat
+Starbucks java chip frappuccino;High carb;350;7;5;0;0;68;Sehat
+Bungkil kacang tanah;High protein;336;37,4;13;0;0;30,5;Sehat
+Daun kol sawi;Moderate nutrients;22;2,1;0,5;0;19;3,6;Sehat
+Biskuit choco mania;High sugar, high fat;100;1;4,5;7;0;14;Kurang Sehat
+Bou ninahu ndamate;High sodium;79;6,3;1;0;67;1,1;Cukup Sehat
+Putri selat;High fat;163;2,2;6,5;0;6;13,8;Cukup Sehat
+Yogurt greek yummy blueberry;High protein, high sugar;140;8;3,5;10;65;19;Cukup Sehat
+Ikan Beunteur;High protein;109;17;4;0;109;0;Cukup Sehat
+Teh hitam daun kering;High protein, high carb, high fiber;293;24,5;2,8;0;50;58,8;Cukup Sehat
+ABC kopi susu;High carb;130;1;2,5;0;15;27;Sehat
+Es krim Aice coklat sundae;Moderate nutrients;100;2;4;8;15;14;Sehat
+Bayam merah;Moderate nutrients;41;2,2;0,8;0;20;6,3;Sehat
+Kacang ercis;High fiber;129;12,4;0,7;0;4;18,3;Sehat
+Asinan bogor;High sodium;98;3,9;2,6;0;483;14,8;Cukup Sehat
+Susu WRP loses weight coklat;High protein, high sugar;220;14;6;20;0;27;Kurang Sehat
+Kalio kikil;High sodium;122;13,8;5,7;0;519;3,9;Kurang Sehat
+ABC Kecap Asin;High sodium;5;1;0;0;830;1;Kurang Sehat
+Buah naga putih;Moderate nutrients;56;0,8;1;0;7;10,9;Sehat
+Jagung pipil var. metro;High calorie, high carb;368;5,5;4,6;0;1;78;Sehat
+Kacang bogor segar;Moderate nutrients;165;7,7;3,1;0;6;27,4;Sehat
+Itik alabio dendeng;High sodium, high fat, high protein;496;30,3;33,5;0;1081;18,4;Kurang Sehat
+Chatime pearl milk tea;High calorie, high sugar, high carb;374;1;11;39,5;0;67;Kurang Sehat
+Aqua;No nutrients;0;0;0;0;0;0;Sehat
+Bingka;High carb;273;5,3;10,6;0;0;39,1;Sehat
+Enting-enting wijen;High calorie, high fat, high protein;565;18,2;38,4;0;0;36,8;Kurang Sehat
+Kool merah, kool putih;Moderate nutrients;29;1,4;0,2;0;28;5,3;Sehat
+Oyek;High carb;351;0,9;0,9;0;5;84,9;Sehat
+Rujak aceh;High fiber;82;0,4;0,3;0;0;19,7;Sehat
+Keripik kemplang goreng;High calorie, high fat, high carb;504;5,6;28,1;0;0;57,1;Kurang Sehat
+Bungkil kelapa;High protein;368;23;15;0;0;40;Sehat
+Bamboe soto ayam;High sodium;10;1;1;1;850;2;Kurang Sehat
+Belitung;High carb;145;1,2;0,4;0;6;34,2;Sehat
+Geplak Jahe;High calorie, high carb;462;3,1;14,4;0;0;57,7;Kurang Sehat
+Kacang mekah;Moderate nutrients;22;1,1;1;0;2;3,4;Sehat
+Dodol kedongdong;High calorie, high carb;331;1,9;7,6;0;0;63,8;Kurang Sehat
+Kepala susu;High fat;204;2,6;20;0;0;4;Kurang Sehat
+Ubi Cilembu;High carb, high fiber;186;1,9;0,2;0;1;44,3;Sehat
+Bungkil biji karet;High protein;333;29,3;3,3;0;0;50;Sehat
+Monde Boromon Wafers rasa Vanila;High sodium, high fat;60;1;7;7;60;16;Cukup Sehat
+Good Day Cappuccino With Cocoa Granule;High sugar, high carb;110;1;2,5;17;10;21;Kurang Sehat
+Starbucks hot caramel macchiato;High carb;280;10;11;0;0;35;Cukup Sehat
+Soto padang;Moderate nutrients;127;5,9;6,6;0;0;11;Sehat
+Soto kudus;Moderate nutrients;38;3,6;2,3;0;0;1,8;Sehat
+Tahubaxo rebus;High sodium;109;11;0;0;504;16;Kurang Sehat
+Meises coklat;High sugar, high carb;120;0;4;16;0;20;Kurang Sehat
+Jeruk Kalamansi;Moderate nutrients;39;0,3;0,3;0;3;8,9;Sehat
+Batar daan;High sodium, high carb;107;2,2;2,2;0;200;19,6;Cukup Sehat
+Nasi Goreng;High calorie, high fat, high carb;500;7;34,4;0;18;40,2;Kurang Sehat
+Baruasa;High calorie, high carb;417;6,5;8,2;0;0;79,3;Kurang Sehat
+Omelet Mie Telur;High sodium;500,7;14,3;24,3;0;1132;54,5;Kurang Sehat
+Daun jawaw seluang;Moderate nutrients;93;5;1,3;0;2;15,3;Sehat
+Saladstop Sunshine jakarta;High protein, high sodium, high carb;556,6;45,2;26,6;18,1;988,8;50,7;Kurang Sehat
+Sarimi isi tongseng ayam;High calorie, high fat, high carb;560;11;23;5;0;76;Kurang Sehat
+Ikan Mujahir;High protein;89;18,7;1;0;51;0;Sehat
+Talas pontianak;High carb;163;2,3;0,5;0;14;36,4;Sehat
+Susu Rasa Taro;High sugar, high carb;130;5;4;14;60;18;Kurang Sehat
+Masako Daging Sapi;High sodium;0;0;0;0;590;0;Kurang Sehat
+Koya mirasa;High carb;370;8;1;0;0;82,2;Sehat
+Sasa tepung bakso goreng;High sodium, high carb;90;1;0;0;910;21;Kurang Sehat
+Mizone;High sugar, high carb;45;0;0;11;0;11;Kurang Sehat
+Fillet o-fish;High sodium, high fat;270;12,3;15,9;0;439;19,3;Kurang Sehat
+Beras giling var rojolele;High calorie, high carb;357;8,4;1,7;0;34;77,1;Sehat
+Beras menir;High calorie, high fat, high carb;362;7,7;4,4;0;90;73;Sehat
+Monde Snack Gold;High carb, high sodium;20;2;2,5;3;35;16;Sehat
+Mony Oats Dark Choco Flavour;High fat, high carb;50;0;20;4;15;7;Kurang Sehat
+Kacang babi;High protein, high carb;341;30,4;3,2;0;13;51,3;Sehat
+Subway black forest ham sandwich;High protein, high carb;290;18;4,5;8;0;46;Sehat
+Tempe lamtoro var. gung;High fiber;146;11,7;2,3;0;0;19,6;Sehat
+Kalio ayam;High sodium, high fat;203;16;13,5;0;534;4,4;Kurang Sehat
+Silky Pudding Taro Flavour;High sugar, high carb;15;2;1,5;11;45;16;Kurang Sehat
+Talas bogor;High carb;108;1,4;0,4;0;10;25;Sehat
+Niu Zuzu rasa coklat;High sugar, high carb;120;2;3;18;110;22;Kurang Sehat
+Jeruk bali;Moderate nutrients;48;0,6;0,2;0;21;12,4;Sehat
+Delfi ChaCha Peanut;High fat;160;3;8;0;10;17;Cukup Sehat
+Kacang endel;High protein, high carb, high fiber;331;25;1;0;12;58;Sehat
+Bihun goreng instan;High sodium, high carb;381;6,1;3,9;0;928;80,3;Kurang Sehat
+Mie ayam;High sodium;102;6,2;3,9;0;279;10,5;Cukup Sehat
+Koro benguk;High protein, high carb;332;24;3;0;42;55;Sehat
+Nongshim Shin cup;High carb;309;10,9;6;1,9;0;46,8;Cukup Sehat
+Teh botol tawar;No nutrients;0;0;0;0;0;0;Sehat
+Biji nangka;High carb, high fiber;262;2,3;5,4;0;10;51,1;Sehat
+Emping;High carb;345;12;1,5;0;0;71,5;Sehat
+Soto bandung;Moderate nutrients;42;3,9;1,7;0;0;2,8;Sehat
+Origo coffe avocado coffe;High sugar;160;4,04;6,02;14,12;0;22,46;Kurang Sehat
+Subway sweet onion chicken teriyaki sandwich;High protein, high carb, high sugar;370;25;4,5;16;0;58;Kurang Sehat
+Komak polong;High fiber;99;3,3;0,1;0;15;21,2;Sehat
+Hazelnut;High calorie, high fat;628;14,95;60,75;0;0;16,7;Kurang Sehat
+Sariroti roti tawar kupas;Moderate nutrients;110;3;2;1;170;19;Sehat
+Andewi;High fiber;226;1,6;0,2;0;29;5,3;Sehat
+Mie bakso;High sodium;114;5,3;3;0;760;16,4;Kurang Sehat
+Kin bulgarian yogurt orange;High sugar, high carb;150;3;2,5;27;0;28;Kurang Sehat
+Tapai singkong;High carb;169;1,4;0,3;0;0;40,2;Sehat
+Buncis;Moderate nutrients;34;2,4;0,3;0;8;7,2;Sehat
+Biskuit serena egg rolls chocolate;High sugar, high fat;80;1;4,5;4;0;8;Cukup Sehat
+Ikan Mujahir goreng;High protein, high fat;416;46,9;23,9;0;54;0;Cukup Sehat
+Kue ku temu;High carb;214;3,5;0,2;0;0;49,6;Sehat
+Coklat Ferrero rocher;High sugar, high fat, high carb;238;3;16;15;0;18;Kurang Sehat
+Outback steackhouse outback special;High protein;280;51;9;0;0;0;Sehat
+The coffe bean & tea leaf mocha ice blended drink;High carb;350;11;7;55;0;67;Kurang Sehat
+Indomie goreng;High calorie, high fat, high carb;380;8;14;8;0;54;Kurang Sehat
+Nestle nestum;High carb, high sugar;130;3;1,5;9;0;27;Kurang Sehat
+Jagung nasi;High calorie, high carb, high fiber;357;8,8;0,5;0;2;79,5;Sehat
+Indofood cap enak;High sugar, high carb;120;1;4;19;0;21;Kurang Sehat
+Pastel;High carb, high fat;307;4,5;13,3;0;0;42,4;Kurang Sehat
+Momogi Bintang Coklat;Moderate nutrients;50;1;3;0;20;6;Sehat
+King's Fisher sarden goreng balado;High protein, high fat;120;8;8;0;0;4;Cukup Sehat
+Kewpie Caesar;High sodium, high fat;70;1;6;0;190;3;Kurang Sehat
+Getuk singkong;High carb;204;0,5;1,4;0;0;47,4;Sehat
+Kenari banda;High calorie, high fat;616;13,9;56,2;0;11;13,7;Kurang Sehat
+Anak sapi daging gemuk;Moderate nutrients;184;18,8;14;0;118;0;Cukup Sehat
+Indomie ayam geprek;High calorie, high fat, high carb;410;9;20;6;0;49;Kurang Sehat
+Oncom kacang tanah pepes;High protein;132;11,7;3,8;0;0;13,7;Sehat
+PT. Ultrajaya Milk Industry, Tbk;Moderate nutrients;120;6;6;0;40;9;Sehat
+Putri hijau;High carb;189;5,4;2,1;0;0;37,2;Sehat
+Nestle Milo 3in1 Activ-Go;High carb, high sugar;140;4;3;0;80;25;Cukup Sehat
+Tiwul Instan;High calorie, high carb, high sodium;395;3,2;8,5;0;377;76,5;Kurang Sehat
+Hofa;High carb, high fiber;127;1,2;0,5;0;3;29,5;Sehat
+Lanting getuk;High calorie, high carb;422;0,9;10,8;0;0;80,4;Kurang Sehat
+Telur ayam ras;High protein, high fat;154;12,4;10,8;0;142;0,7;Cukup Sehat
+Daun Kenikir;High fiber;45;3,7;0,5;0;6;6,6;Sehat
+Oncom;High protein;187;13;6;0;0;22,6;Sehat
+Gadung;High carb;100;0,9;0,3;0;8;23,5;Sehat
+Nasi minyak;High carb, high fat;207;3,5;5;0;74;37,1;Cukup Sehat
+Starbucks green tea frappuccino;High carb;320;5;4,5;0;0;64;Sehat
+Kue Kelepon;High carb;215;3,7;3,7;0;0;41,8;Sehat
+ABC Selera pedas hot gulai chicken;Moderate nutrients;270;7;12;1;0;34;Cukup Sehat
+Royco sup krim jagung;High sodium, high sugar;70;1;2;4;380;11;Kurang Sehat
+BANGO Kecap Manis Light;High sugar, high sodium;40;0;0;8;140;10;Kurang Sehat
+Happy Tos Tortilla Chips;High sodium, high fat;60;2;7;1;125;16;Cukup Sehat
+Super bubur rasa ayam;High sodium, high carb;170;3;3;0;840;32;Kurang Sehat
+Yoshinoya Veggie beef bowl;High calorie, high carb, high protein;960;35;29;8;0;141;Kurang Sehat
+Intip goreng;High calorie, high fat, high carb;474;7,6;21,6;0;0;62,3;Kurang Sehat
+Daun pohpohan;Moderate nutrients;37;2,5;0,8;0;0;6,9;Sehat
+Suki Rasa Ayam Kecap;High sodium;100;2;4;1;240;13;Cukup Sehat
+Soto betawi;High fat;135;2,5;8,8;0;0;11,5;Cukup Sehat
+Selada air;High protein;17;3,1;0,2;0;65;2,2;Sehat
+Mie Sedaap baso spesial;High carb;340;9;13;2;0;47;Cukup Sehat
+Naraya melon seed;High sodium, high fat;130;6;10;0;180;2;Cukup Sehat
+Pepare ular;High sodium;19;0,6;0,1;0;130;3,9;Cukup Sehat
+Kaburan;High carb;133;1;0,2;0;10;32,2;Sehat
+You C1000 vitamin lemon;High sugar;700;0;0;16;0;16;Kurang Sehat
+Kopi Good day the original;High sugar, high carb;90;1;2,5;13;0;16;Kurang Sehat
+Naraya Coklat Cookies;Moderate nutrients;50;1;3;0;45;6;Sehat
+Susu On gold standard whey;High protein;120;20;1,8;1,6;0;3;Sehat
+Sariroti roti tawar gandum;High sodium, high carb;190;6;3,5;2;290;32;Cukup Sehat
+King's Fisher sarden sambal bangkok;High protein;70;8;2;0;0;6;Sehat
+Ultra Sari Asem Asli;High carb;130;0;0;0;0;32;Sehat
+Sagu aren segar;High carb;231;0,6;0,2;0;7;56,6;Sehat
+Kelapa tua;High calorie, high fat;359;3,4;34,7;0;3;14;Kurang Sehat
+Koyabu;High carb;241;3,4;4,3;0;0;47,2;Sehat
+Buah kelor;Moderate nutrients;38;1,5;0,2;0;48;7,5;Sehat
+Mie Sedaap Cup Mi Kuah Bakso;High sodium, high carb;350;8;15;0;1070;45;Kurang Sehat
+Martabak mesir;High sodium, high carb;278;5,1;8,6;0;193;45;Cukup Sehat
+Encung asam;High fiber;122;3,5;4,5;0;0;17,5;Sehat
+Croissant;High fat, high carb;180;3;9;0;0;21;Cukup Sehat
+Hokben Tori Ball;High fat;250;7;14;0;0;15;Cukup Sehat
+Ikan Sunu;High protein;111;13,3;3,4;0;91;6,7;Sehat
+Sapi dideh/darah;High protein, high sodium;98;21,9;1,1;0;150;0;Cukup Sehat
+Beras ganyong;High carb;364;3,4;0,7;0;4;86,3;Sehat
+MR.P Cashewnuts;High fat;250;7;19;0;0;11;Kurang Sehat
+Dodol bali;High carb;298;3,7;2,1;0;0;65,9;Sehat
+Susu kambing;Moderate nutrients;64;4,3;2,3;0;35;6,6;Sehat
+Origo coffe strawberry kopi susu;High sugar;108;2,43;4,34;10,25;0;12,55;Kurang Sehat
+Permen KIS mini assorted;High sugar, high carb;30;0;0;5;0;7;Kurang Sehat
+Telur ayam ras bagian putih;High protein, high sodium;50;10,8;0;0;164;0,8;Cukup Sehat
+Pisang ayam;High carb, high fiber;120;1,1;0,2;0;6;26,8;Sehat
+Pempek adaan;High sodium, high carb;162;4,9;3;0;488;27,8;Kurang Sehat
+Keju kacang tanah;High calorie, high fat, high protein;590;27;49;0;355;20,9;Kurang Sehat
+Ubi jalar manis;Moderate nutrients;83;1,5;0,2;0;52;18,8;Sehat
+Donat Krispy kreme mini original glazed;Moderate nutrients;83,3;1;4,3;4,7;0;10;Sehat
+Sarimi Gelas Rasa Baso Sapi;High sodium, high carb;50;2;6;2;390;18;Kurang Sehat
+Dalgona coffe;High sugar, high carb;306;9,25;7,05;33,86;0;52,77;Kurang Sehat
+Lousiana rub wings;High protein, high fat;171;15;12;0;0;1;Cukup Sehat
+Outback steackhouse Ribeye;High protein, high fat;540;58;35;0;0;0;Kurang Sehat
+Bonchon Spicy wings;High calorie, high protein, high fat;800;56;54;5;0;18;Kurang Sehat
+Talas bogor kukus;High carb;120;1,5;0,3;0;11;28,2;Sehat
+Maya Sardines Chili sause;Moderate nutrients;180;12,08;2,11;0;0,2;2,6;Sehat
+Cempedak;High carb, high fiber;116;3;0,4;0;25;28,6;Sehat
+Good Day rock caramello;High sugar, high sodium, high fat;40;1;4,5;13;100;14;Kurang Sehat
+PRONAS Sarden saus pedas;High fat, high sodium;80;8;4;0;120;2;Cukup Sehat
+Terung belanda;Moderate nutrients;52;2,1;1,1;0;0;8,6;Sehat
+Chitato;Moderate nutrients;110;2;6;0;0;11;Sehat
+Rambutan;High carb;69;0,9;0,1;0;16;18,1;Sehat
+Beras ketan putih tumbuk;High calorie, high carb;361;7,4;0,8;0;3;78,4;Sehat
+Sawo Manila;High fiber;92;0,5;1,1;0;26;22,4;Sehat
+Kerupuk cumi goreng;High sodium, high fat, high carb;444;6,9;14,6;0;837;71,3;Kurang Sehat
+Gemblong;High carb;274;1,7;5,4;0;0;55,5;Sehat
+Pop mie rasa baso;High sodium, high carb;140;8;15;5;720;47;Kurang Sehat
+Soto madura;High fat;60;3,5;4,5;0;0;1,3;Sehat
+Saos tomat;High sodium, high carb;110;2;0,4;0;890;24,5;Kurang Sehat
+Sariroti sandwich coklat;Moderate nutrients;150;3;6;4;125;21;Cukup Sehat
+Bentul;High carb;98;1,6;0,7;0;0;20,9;Sehat
+Sagu manis;High carb;287;0,5;3,9;0;34;62,4;Sehat
+Lemonia Biscuit;High sugar, high fat;45;1;5;5;50;13;Kurang Sehat
+Koro loke;High fiber;33;2,7;0,2;0;2;7,9;Sehat
+Daun pakis;High protein;39;4,5;0,4;0;20;6,9;Sehat
+Kangkung tondano;Moderate nutrients;43;1,8;0,2;0;30;8,4;Sehat
+Mie telur cap 3 ayam;High carb;230;8;0;2;0;49;Sehat
+Pala;High carb;42;0,3;0,2;0;0;10,9;Sehat
+Tepung Gaplek;High carb;345;2,4;0,4;0;6;83,1;Sehat
+Tempe kedelai murni mentah;High protein, high carb;201;20,8;8,8;0;9;13,5;Sehat
+Flax seeds;High calorie, high fat, high protein;534;18,29;42,16;0;0;28,88;Kurang Sehat
+Starbucks hot caramel macchiato (nonfat milk);High carb;200;11;1,5;0;0;36;Sehat
+Bango Bumbu Kuliner Nusantara Tongseng;High sodium;15;0;1,5;4;800;5;Kurang Sehat
+Bobengka;High carb;225;5,3;2,6;0;0;45,2;Sehat
+Markisa squash;High carb;104;1,2;0,5;0;40;23,7;Sehat
+Pizza hut deluxe cheeses;Moderate nutrients;150;6;6;2;0;17;Sehat
+Mi ABC cup baso sapi;Moderate nutrients;290;7;13;3;0;34;Cukup Sehat
+Nasi merah;High carb;149;2,8;0,4;0;5;32,5;Sehat
+Bagea kenari manis;High calorie, high fat, high carb;523;3,2;28,2;0;74;64,2;Kurang Sehat
+Teh Javana;High sugar, high carb;0;0;0;28;75;28;Kurang Sehat
+Biokul greek yogurt;High fat;160;6;12;2;0;6;Kurang Sehat
+Frisian flag sweet delight;High sugar;150;6;6;18;75;20;Kurang Sehat
+Ahh Nabati Richeese;Moderate nutrients;10;0;1;1;15;3;Sehat
+Indomie mi kuah;High carb;300;7;11;3;0;43;Cukup Sehat
+Saladstop bold bulgogi;High protein, high sodium, high fat;411,8;17,7;25,7;13,3;695,4;30,6;Kurang Sehat
+Kue sus;High fat, high carb;221;7,5;10,2;0;0;24,8;Kurang Sehat
+Dodol galamai;High carb;348;0,4;3,8;0;38;76,1;Sehat
+Ketoprak;Moderate nutrients;153;7,9;7,7;0;0;13;Cukup Sehat
+Kue koa;High carb;340;4,8;0,4;0;0;79,3;Sehat
+Keju mozzarella;High protein, high fat;280;27,5;17,1;0;0;3,1;Cukup Sehat
+Espresso;Low calorie;3;0,04;0,05;0;0;0,49;Sehat
+Permen frozz lime mint;Low calorie;0;0;0;0;0;1;Sehat
+Eskrim magnum white almond;High sugar, high fat, high carb;230;3;14;13;0;23;Kurang Sehat
+Pop mie mie goreng pedas;High fat, high carb;370;6;17;4;0;49;Kurang Sehat
+Berilla Collezione Lasagne all'uovo;High carb;370;11;4;0;30;71;Sehat
+Roma Sandwich;High sugar, high fat;140;2;7;6;80;17;Cukup Sehat
+Taoge kacang tunggak;High protein;40;5;0,2;0;2;5,8;Sehat
+Kacang negara;High sodium, high calorie, high fiber;480;18,4;19,1;0;1010;58,5;Kurang Sehat
+Piattos Sambal Geprek Flavor;High sodium, high fat;45;1;5;1;100;13;Kurang Sehat
+Japilus;High calorie, high fat, high carb;500;1,2;25,1;0;0;67,3;Kurang Sehat
+Ribeye;High protein;217;19,8;15,21;0;0;0,11;Cukup Sehat
+Ikan Bader;High protein, high fat;193;19;13;0;118;0;Cukup Sehat
+Nutrijell pudding suus rasa vanila;High sugar;40;0;0,5;5;30;8;Cukup Sehat
+Mie sedaap kari spesial;High carb;340;8;13;2;0;48;Cukup Sehat
+Burger Carl's Jr california classic double cheeseburger;High calorie, high fat;600;23;39;11;0;41;Kurang Sehat
+The coffe bean & tea leaf matcha ice blended drink;High carb, high sugar;410;16;9;59;0;67;Kurang Sehat
+Permen mentos spearmint;Low calorie;5;0;0;0;0;1;Sehat
+Teh Kotak Rasa Apel;High sugar, high carb, high sodium;100;0;0;20;50;24;Kurang Sehat
+Santan;High fat;122;2;10;0;9;7,6;Cukup Sehat
+Mi basah;Moderate nutrients;88;0,6;3,3;0;63;14;Sehat
+Sagu forno;High carb;291;0,5;4;0;40;63,4;Sehat
+Gado-gado;High carb;137;6,1;3,2;0;0;21;Sehat
+Coklat Hershey's milk chocolate;Moderate nutrients;22;0,3;1,3;2,6;0;2,8;Sehat
+Mie aceh rebus;High sodium, high carb;113;3;3,2;0;191;18,1;Cukup Sehat
+Jagung gerontol;High carb;156;2,7;1,3;0;0;33,3;Sehat
+Puff pastry sheet;High fat, high carb;200;3;13;1;0;18;Kurang Sehat
+Melinjo emping tebal goreng asin;High calorie, high carb;431;11,1;16,2;0;0;63;Kurang Sehat
+Wortel;Moderate nutrients;36;1;0,6;0;70;7,9;Sehat
+Yogurt greek yummy original;High protein;140;7;4;8;0;17;Sehat
+Sayur sop;Low calorie;27;1,3;2;0;0;1;Sehat
+Pulut;High carb, high sodium;216;2,6;3,1;0;100;44,4;Cukup Sehat
+Andaliman;High fiber;99;4,6;1;0;0;18;Sehat
+Nutrisari jus mangga;High sugar, high carb;60;0;1;12;0;13;Kurang Sehat
+Ikan Batung;High protein;115;14,5;4,6;0;42;4,2;Sehat
+Bihun;High carb;348;4,7;0,1;0;12;82,1;Sehat
+Kelapa setengah tua;High fat, high carb;180;4;15;0;4;10;Cukup Sehat
+Dancow susu bubuk fortigro full cream;Moderate nutrients;120;6;7;0;90;10;Sehat
+Pork loin;High protein;198;19,74;12,58;0;0;0;Cukup Sehat
+Cake tape;High carb, high fat;323;4,9;11,5;0;0;50,1;Kurang Sehat
+Supermi rasa Kaldu Ayam;High sodium, high carb;100;6;11;2;920;45;Kurang Sehat
+Jawawut;High calorie, high carb, high fiber;364;9,7;3,5;0;7;73,4;Sehat
+Ikan selar kuning cue;High protein;138;27;3,3;0;0;0;Sehat
+Sate Ayam;High protein, high sodium;225;19,54;14,82;0;355;4,87;Cukup Sehat
+Ademsari chingku herbal tea;High sugar, high carb;90;0;0;21;0;21;Kurang Sehat
+Batatas gembili;High carb, high fiber;76;1,1;0,9;0;10;16;Sehat
+Daun pakis loggiho;Moderate nutrients;54;2,2;3,6;0;70;3,1;Cukup Sehat
+Supermi rasa steak ayam;High sodium, high carb;140;7;15;6;590;54;Kurang Sehat
+Koro wedus;High protein, high carb;338;22,2;1,5;0;43;61;Sehat
+Red Hot Cajun wings;High protein;142;15;8;0;0;1;Cukup Sehat
+Tony roma's the original baby back ribs;High calorie, high protein, high sugar;563;30;25;50;0;55;Kurang Sehat
+Kerupuk kemplang (ikan) mentah;High sodium, high carb;325;1,8;0,4;0;1123;78,5;Kurang Sehat
+Rempeyek kacang uci;High calorie, high fat, high carb;497;17;27,6;0;0;50,8;Kurang Sehat
+Ampas kacang hijau;High carb;96;3,7;0,6;0;0;19,1;Sehat
+Pronas chicken luncheon;Moderate nutrients;80;4;6;0;0;3;Cukup Sehat
+Susu kerbau;High fat;160;6,3;12;0;82;7,1;Cukup Sehat
+Soto sukaraja;Moderate nutrients;80;3,2;3,5;0;0;9;Sehat
+Chitato keripik kentang rasa sapi panggang;High sodium, high fat;110;2;6;0;115;11;Cukup Sehat
+Manan samin;High calorie, high carb;379;3,4;18,1;0;0;50,6;Kurang Sehat
+Pizza hut meat lover's;High calorie, high fat;470;19;28;1;0;36;Kurang Sehat
+Bika ambon;High carb;199;2,1;1,5;0;0;44,4;Sehat
+Keju Lemnos Fetta Cheese;High fat;83;5,4;6,9;0,9;0;0,4;Cukup Sehat
+Krupuk Bocah Tua;High sodium, high carb;340;1;0;0;1570;84;Kurang Sehat
+Nissin wafer coklat;High sugar, high fat;50;2;6;8;70;20;Cukup Sehat
+Richeese Nabati;Moderate nutrients;40;0;1,5;0;30;6;Sehat
+KFC extra crispy sayap;High fat;170;10;13;0;0;5;Cukup Sehat
+Kacang uci;High protein, high carb, high fiber;358;23,4;2,4;0;13;60,6;Sehat
+Kecimpring singkong goreng;High calorie, high fat, high carb;464;1,2;18,6;0;0;73;Kurang Sehat
+Sariroti Sandwich krim keju;High sodium, high fat;130;3;6;3;260;17;Cukup Sehat
+Susu My protein impact whey protein;High protein;105;20;1,8;1,6;0;3;Sehat
+Ubi jalar kuning;High carb, high fiber;119;0,5;0,4;0;3;25,1;Sehat
+Amparan;High carb, high fat;191;1,3;5,5;0;0;34;Kurang Sehat
+Kluwek;High calorie, high fat;310;10;24;0;0;13,5;Kurang Sehat
+Keripik Qtela singkong;High fat, high carb;100;0;5;1;0;14;Cukup Sehat
+Milo Activ-Go;High sugar, high carb;15;2;2;8;35;13;Cukup Sehat
+Indomie rasa ayam bawang;High sodium, high carb;100;7;11;3;1330;43;Kurang Sehat
+Ketela pohon kukus;High carb;153;1,2;0,3;0;2;36,4;Sehat
+Indomie rasa ayam special;High sodium, high carb;90;7;10;3;1180;44;Kurang Sehat
+Caotina;High sugar, high fat;114;1;7,4;10;20;10,4;Kurang Sehat
